@@ -1,0 +1,26 @@
+
+input[type='reset'], input[type='submit'], input[type='number'] {
+	width: 125px;
+}
+
+.product img{
+	width: 450px;
+	height: 500px;
+}
+
+.product{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding: 15px;
+	background-color: #2952a3;
+	color: white;
+	margin: 25px 0px;
+}
+.buttons{
+	display: block;
+}
+.description{
+	color: black;
+	background-color: white;
+	padding: 10px;
+}

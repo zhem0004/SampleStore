@@ -1,0 +1,52 @@
+body{
+	background-image: url("https://image.freepik.com/free-vector/organic-flat-abstract-element-pattern_23-2148950504.jpg");
+}
+.navigation-button{
+	font-weight: bold;
+	color: white;
+}
+#logo-name{
+	padding: 20px;
+	background-color: #3399ff;
+	color: white;
+}
+
+#featured{
+	text-align: center;
+	padding: 20px;
+	background-color:  #2952a3;
+	color: white;
+}
+
+.price{
+	color: white;
+}
+
+
+#logo img{
+	width: 110px;
+	height: auto;
+}
+
+.navigation_panel{
+	font-size: 30px;
+	justify-content: center;
+	display: grid;
+	grid-template-columns: auto auto auto auto auto;
+	grid-column-gap: 10%;
+	padding: 25px;
+	background-color: #33ccff;
+	padding-bottom: 5px;
+}
+
+input, select {
+	text-align: center;
+	font-size: 18px;
+	width: 250px;
+}
+
+.container{
+	background-color: #99ddff;
+	margin-left: 20%;
+	width: 1000px;
+}
